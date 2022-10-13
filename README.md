@@ -1,2 +1,2 @@
 # Projects
-Personal projects
+Personal projects related to AI and ML.
