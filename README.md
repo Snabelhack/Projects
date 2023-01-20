@@ -1,2 +1,2 @@
 # Projects
-Personal projects related to AI and ML.
+Projects related to OPA22.
